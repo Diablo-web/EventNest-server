@@ -1,1 +1,1 @@
-# EventNest-server
+# events-server
